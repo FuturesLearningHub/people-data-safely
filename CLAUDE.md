@@ -7,7 +7,7 @@ https://me5231979.github.io/
 Sister programs: AI_Classroom (Start Smarter), AI-Advanced (AI 201),
 Coaching-for-Performance (the human method this course feeds),
 Difficult_Conversations, Emotional-Intelligence, Workflow; catalog at
-me5231979/Course_Library. Same engine, same standing principles.
+FuturesLearningHub/FLH-Learning-Library-. Same engine, same standing principles.
 
 ## Standing design principles (do not regress these)
 
